@@ -21,7 +21,7 @@ It asks the user for their age whether they are a student, then calculate the ti
 ### Dependencies
 
 * Python 3.x
-* Runs on Windows, macOS, or Linuz (no external libraries required)
+* Runs on Windows, macOS, or Linux (no external libraries required)
 
 ### Installing
 
